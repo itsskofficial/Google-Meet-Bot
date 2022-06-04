@@ -19,6 +19,7 @@ This project was created in Python, for the fellow comrades and homies.
 - Supported web browsers: Google Chrome and Mozilla Firefox
 - Supported platforms: Linux, Mac, and Windows
 - Automatically checks for a newer MeetNinja version upon every execution
+- Updated with selenium 4
 
 ## Usage
 1. Clone this repository or download it as a ZIP file (and extract its contents)
@@ -69,4 +70,5 @@ You may also need or use the above remote desktop client(s) if you need to mid-s
 
 ------------
 
-My website: https://TheComputerNoob.com
+Originally updated from https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot
+
